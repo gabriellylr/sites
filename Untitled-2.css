@@ -1,0 +1,60 @@
+
+
+.cabecalho
+{
+    background-color: black;
+}
+tr
+{
+   border: solid;
+   height: 50px;
+   width: 150px;
+}
+
+td
+{
+ background-color: whitesmoke;
+ text-align: center;
+ border-radius: 3px;
+}
+.color
+{
+    color: black;
+}
+.image
+{
+    width: 90px;
+    height: 60px;
+}
+.cor
+{
+  color: white;
+}
+.simbolo
+{
+    width: 350px;
+    height: 400px;
+} 
+p
+{
+    text-align: center;
+}
+body {
+    -webkit-animation: colorchange 60s infinite; 
+    animation: colorchange 60s infinite;
+}
+@-webkit-keyframes colorchange {
+     0%  {background: #33FFF3;}
+    25%  {background: #78281F;}
+    50%  {background: #117A65;}
+    75%  {background: #DC7633;}
+    100% {background: #9B59B6;}
+}
+@keyframes colorchange {
+     0%  {background: #33FFF3;}
+    25%  {background: #78281F;}
+    50%  {background: #117A65;}
+    75%  {background: #DC7633;}
+    100% {background: #9B59B6;}
+}   
+

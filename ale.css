@@ -1,0 +1,56 @@
+.image
+{
+    width: 420px;
+    height: 230px;
+}
+p
+{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+}
+.medalhas
+{
+    width: 100px;
+    height: 120px;
+}
+td
+{
+    text-align: center;
+    font-size: 50px;
+    width: 180px;
+    border: solid;
+
+}
+tr
+{
+
+    height: 50px;
+    width: 150px;
+}
+a
+{
+font-size: 35px;
+}
+.tons
+{
+    border-color: black;
+}
+.red
+{
+    border-color: rgba(253, 31, 31, 0.842);
+}
+.yellow
+{
+    border-color: rgba(255, 255, 31, 0.863);
+}
+body 
+{
+    background-image: linear-gradient(to bottom, black,red,yellow);
+    background-attachment: fixed;
+}
+.seta
+{
+    width: 60px;
+    height: 60px;
+}

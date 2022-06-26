@@ -1,0 +1,51 @@
+.image
+{
+    width: 480px;
+    height: 280px;
+    
+}
+td
+{
+ width: 300px;
+ height: 150px;
+ text-align: center;
+ 
+}
+p
+{
+ text-align: center;
+ font-size: 60px;
+ font-family: Arial;
+}
+.tabela
+{
+    font-family: Arial;
+    font-size: 30px;
+}
+.cor
+{
+    background-color:rgb(245, 147, 147);
+}
+.tom
+{
+    background-color: rgba(255, 228, 196, 0.808);
+}
+a
+{
+font-size: 35px;
+}
+.medalha
+{
+    width: 80px;
+    height: 100px;
+}
+body 
+{
+    background-image: linear-gradient(to bottom, red,white,blue);
+    background-attachment: fixed;
+}
+.seta
+{
+    width: 60px;
+    height: 60px;
+}
